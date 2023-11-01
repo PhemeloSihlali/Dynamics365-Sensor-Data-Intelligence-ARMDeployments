@@ -1,0 +1,419 @@
+.div217,
+.div218,
+.div219,
+.div220,
+.div221,
+.div222 {
+  position: absolute;
+  top: 2.7px;
+  left: 390.1px;
+  line-height: 150%;
+}
+.div218,
+.div219,
+.div220,
+.div221,
+.div222 {
+  left: 554.1px;
+}
+.div219,
+.div220,
+.div221,
+.div222 {
+  top: 36px;
+  left: 556px;
+}
+.div220,
+.div221,
+.div222 {
+  top: 69px;
+}
+.div221,
+.div222 {
+  top: 102px;
+}
+.div222 {
+  top: 135px;
+}
+.current-assets-group {
+  position: absolute;
+  top: 74.3px;
+  left: 27.9px;
+  width: 155.2px;
+  height: 24px;
+}
+.assets {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  line-height: 150%;
+}
+.assets-wrapper {
+  position: absolute;
+  top: 35.3px;
+  left: 27.9px;
+  width: 155.2px;
+  height: 24px;
+}
+.div223,
+.div224,
+.net-credit,
+.net-debit {
+  position: absolute;
+  top: 38px;
+  left: 418px;
+  line-height: 150%;
+  font-weight: 500;
+}
+.div223,
+.div224,
+.net-credit {
+  top: 716px;
+  left: 426px;
+}
+.div224,
+.net-credit {
+  left: 595px;
+}
+.net-credit {
+  top: 38px;
+  left: 582px;
+}
+.equity-container,
+.liabilities-container {
+  position: absolute;
+  top: 251px;
+  left: 26px;
+  width: 155.2px;
+  height: 24px;
+}
+.equity-container {
+  top: 389px;
+  left: 25px;
+}
+.bank-and-cash-accounts-wrapper,
+.receivables-container {
+  position: absolute;
+  top: 105px;
+  left: 28px;
+  width: 218.2px;
+  height: 24px;
+}
+.receivables-container {
+  top: 138px;
+  width: 96px;
+}
+.plus-fixed-assets-container,
+.prepayments-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 147.2px;
+  height: 24px;
+}
+.plus-fixed-assets-container {
+  top: 30px;
+  width: 167.2px;
+}
+.frame-parent45,
+.plus-non-current-assets-container {
+  position: absolute;
+  top: 60px;
+  left: 0;
+  width: 210.2px;
+  height: 24px;
+}
+.frame-parent45 {
+  top: 287px;
+  left: 25px;
+  height: 84px;
+}
+.current-liabilities-container,
+.payables-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 170.2px;
+  height: 24px;
+}
+.payables-container {
+  top: 33px;
+  width: 122.2px;
+}
+.plus-non-current-liabilities1 {
+  position: relative;
+  line-height: 150%;
+}
+.plus-non-current-liabilities-container {
+  position: absolute;
+  top: 66px;
+  left: 0;
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.unallocated-earnings-container {
+  position: absolute;
+  top: 99px;
+  left: 0;
+  width: 195.2px;
+  height: 24px;
+}
+.current-year-earnings-container,
+.current-year-unallocated-earni-container {
+  position: absolute;
+  top: 132px;
+  left: 0;
+  width: 274.2px;
+  height: 24px;
+}
+.current-year-earnings-container {
+  top: 165px;
+  width: 198.2px;
+}
+.current-year-allocated-earning-container {
+  position: absolute;
+  top: 198px;
+  left: -3px;
+  width: 259.2px;
+  height: 24px;
+}
+.previous-years-unallocated-ear-container {
+  position: absolute;
+  top: 231px;
+  left: 0;
+  width: 286.2px;
+  height: 24px;
+}
+.retained-earnings1 {
+  position: absolute;
+  top: 3.1px;
+  left: 0;
+  line-height: 150%;
+}
+.frame-parent46,
+.retained-earnings-container {
+  position: absolute;
+  top: 264px;
+  left: 0;
+  width: 175.2px;
+  height: 24.3px;
+}
+.frame-parent46 {
+  top: 413px;
+  left: 25px;
+  width: 286.2px;
+  height: 288.3px;
+}
+.current-assets3,
+.total5 {
+  position: absolute;
+  top: 716px;
+  left: 27px;
+  line-height: 150%;
+}
+.current-assets3 {
+  top: 206px;
+}
+.material-symbolsfilter-alt-sh1 {
+  position: relative;
+  width: 20.2px;
+  height: 20.2px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.current-assets-container {
+  position: absolute;
+  top: 171px;
+  left: 25px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-4xl);
+}
+.orderlist-child24 {
+  position: absolute;
+  top: 64px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 706px;
+  height: 1px;
+}
+.orderlist-child25,
+.orderlist-child26,
+.orderlist-child27,
+.orderlist-child28,
+.orderlist-child29,
+.orderlist-child30,
+.orderlist-child31 {
+  position: absolute;
+  top: 101.3px;
+  left: -0.3px;
+  border-top: 0.5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 705.5px;
+  height: 0.5px;
+}
+.orderlist-child26,
+.orderlist-child27,
+.orderlist-child28,
+.orderlist-child29,
+.orderlist-child30,
+.orderlist-child31 {
+  top: 135.3px;
+}
+.orderlist-child27,
+.orderlist-child28,
+.orderlist-child29,
+.orderlist-child30,
+.orderlist-child31 {
+  top: 169.3px;
+}
+.orderlist-child28,
+.orderlist-child29,
+.orderlist-child30,
+.orderlist-child31 {
+  top: 203.3px;
+}
+.orderlist-child29,
+.orderlist-child30,
+.orderlist-child31 {
+  top: 237.3px;
+}
+.orderlist-child30,
+.orderlist-child31 {
+  top: 276px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-black);
+  width: 706px;
+  height: 1px;
+}
+.orderlist-child31 {
+  top: 413px;
+}
+.orderlist-child32,
+.orderlist-child33,
+.orderlist-child34,
+.orderlist-child35,
+.orderlist-child36 {
+  position: absolute;
+  top: 315.3px;
+  left: -0.3px;
+  border-top: 0.5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 705.5px;
+  height: 0.5px;
+}
+.orderlist-child33,
+.orderlist-child34,
+.orderlist-child35,
+.orderlist-child36 {
+  top: 346.3px;
+}
+.orderlist-child34,
+.orderlist-child35,
+.orderlist-child36 {
+  top: 377.3px;
+}
+.orderlist-child35,
+.orderlist-child36 {
+  top: 446.3px;
+}
+.orderlist-child36 {
+  top: 477.3px;
+}
+.orderlist-child37,
+.orderlist-child38,
+.orderlist-child39,
+.orderlist-child40,
+.orderlist-child41,
+.orderlist-child42,
+.orderlist-child43 {
+  position: absolute;
+  top: 508.3px;
+  left: -0.3px;
+  border-top: 0.5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 705.5px;
+  height: 0.5px;
+}
+.orderlist-child38,
+.orderlist-child39,
+.orderlist-child40,
+.orderlist-child41,
+.orderlist-child42,
+.orderlist-child43 {
+  top: 542.3px;
+}
+.orderlist-child39,
+.orderlist-child40,
+.orderlist-child41,
+.orderlist-child42,
+.orderlist-child43 {
+  top: 572.3px;
+}
+.orderlist-child40,
+.orderlist-child41,
+.orderlist-child42,
+.orderlist-child43 {
+  top: 605.3px;
+}
+.orderlist-child41,
+.orderlist-child42,
+.orderlist-child43 {
+  top: 639.3px;
+}
+.orderlist-child42,
+.orderlist-child43 {
+  top: 672.3px;
+}
+.orderlist-child43 {
+  top: 704.3px;
+}
+.orderlist-child44,
+.orderlist-child45 {
+  position: absolute;
+  top: 62.5px;
+  left: 393.5px;
+  border-right: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1px;
+  height: 642px;
+}
+.orderlist-child45 {
+  left: 559.5px;
+}
+.orderlist11 {
+  position: absolute;
+  height: 58.59%;
+  width: 57.41%;
+  top: 19.35%;
+  right: 19.22%;
+  bottom: 22.07%;
+  left: 23.37%;
+  border-radius: 9.53px;
+  background-color: var(--color-gainsboro);
+  backdrop-filter: blur(9.6px);
+}
+.trail-balance {
+  position: relative;
+  background: linear-gradient(
+      119.48deg,
+      #f2ff58,
+      #e8ff58,
+      rgba(255, 255, 255, 0) 43%,
+      #39f2c6
+    ),
+    #fff;
+  width: 100%;
+  height: 1287px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-smi-1);
+  color: var(--color-black);
+  font-family: var(--caption-regular);
+}

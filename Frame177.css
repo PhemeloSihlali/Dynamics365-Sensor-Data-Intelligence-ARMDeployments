@@ -1,0 +1,131 @@
+.thumb6,
+.track6 {
+  position: absolute;
+}
+.track6 {
+  width: 66.67%;
+  top: calc(50% - 3px);
+  right: 16.67%;
+  left: 16.67%;
+  border-radius: var(--br-5xs);
+  background-color: var(--theme-dark-green);
+  height: 6px;
+}
+.thumb6 {
+  top: calc(50% - 5px);
+  right: 0;
+  border-radius: 50%;
+  background-color: var(--gray-white);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.24);
+  width: 10px;
+  height: 10px;
+}
+.switch6 {
+  position: absolute;
+  top: 11px;
+  left: 6px;
+  width: 24px;
+  height: 12px;
+}
+.code9 {
+  position: relative;
+  line-height: 150%;
+  font-weight: 500;
+}
+.arrows-icon58 {
+  position: relative;
+  width: 9.2px;
+  height: 9.2px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.customer-name55 {
+  top: 10px;
+  left: 55px;
+  gap: 3.06px;
+}
+.amount27,
+.customer-name55,
+.customer-name56 {
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.customer-name56 {
+  top: 10px;
+  left: 121.2px;
+  gap: 3.06px;
+}
+.amount27 {
+  top: 12.4px;
+  left: 485.8px;
+}
+.header45 {
+  position: relative;
+  background-color: var(--color-gainsboro);
+  backdrop-filter: blur(7.28px);
+  width: 288px;
+  height: 34px;
+}
+.div322,
+.krish4alex {
+  position: absolute;
+  top: 3.1px;
+  left: 46.3px;
+  line-height: 150%;
+}
+.krish4alex {
+  left: 120.7px;
+}
+.switch7 {
+  position: absolute;
+  top: 3.5px;
+  left: 5.7px;
+  width: 24px;
+  height: 12px;
+}
+.row-161 {
+  position: relative;
+  background-color: var(--color-gainsboro);
+  backdrop-filter: blur(7.28px);
+  width: 288px;
+  height: 20px;
+}
+.orderlist23,
+.table25 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.orderlist23 {
+  position: absolute;
+  top: 18px;
+  left: 18px;
+  border-radius: 7.23px;
+  background-color: var(--color-gainsboro);
+  backdrop-filter: blur(7.28px);
+  width: 314px;
+  height: 154px;
+  padding: 15.29904556274414px 486px 103.43525695800781px 15.29904556274414px;
+  box-sizing: border-box;
+}
+.orderlist-parent {
+  position: relative;
+  background: linear-gradient(
+    117.83deg,
+    #ff7b58,
+    #e8ff58,
+    rgba(255, 255, 255, 0) 43%,
+    #39f2c6
+  );
+  width: 100%;
+  height: 185px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 9.18px;
+  color: var(--color-black);
+  font-family: var(--caption-regular);
+}
